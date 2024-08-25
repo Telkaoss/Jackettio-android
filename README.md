@@ -24,7 +24,7 @@ npm install
 ```
 npm start
 ```
-*If you start a jackettio session with npm install or start, restart the application to start it again. (port 4000 and 9117 will be blocked)*
+*If you start a jackettio session with npm install or start, restart termux to start it again. (port 4000 and 9117 will be blocked)*
 
 **The addon is here :**
 
