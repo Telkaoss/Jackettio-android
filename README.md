@@ -20,7 +20,7 @@ npm install
 ```
 npm start
 ```
-*(If you have launched it for the first time, restart a Termux session to reuse the addon.)*
+*If you start a jackettio session with npm install or start, restart the application to start it again. (port 4000 and 9117 will be blocked)*
 
 **The addon is here :**
 
