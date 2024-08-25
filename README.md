@@ -9,7 +9,7 @@ pkg update && pkg upgrade && pkg install -y nodejs-lts git && git clone https://
 ```
 npm install
 ```
-*(if you get an error with localtunnel, restart)*
+*(if you get an error with localtunnel, restart session Termux)*
 
 **To launch without install:**
 ```
