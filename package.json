@@ -1,0 +1,27 @@
+{
+  "name": "jackettio-android",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "install": "node setup.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "compression": "^1.7.4",
+    "dotenv": "^10.0.0",
+    "express": "^4.19.2",
+    "express-rate-limit": "^5.5.1",
+    "localtunnel": "^2.0.2",
+    "lokijs": "^1.5.12",
+    "parse-torrent": "^9.1.5",
+    "showdown": "^1.9.1",
+    "xml2js": "^0.4.23"
+  }
+}
