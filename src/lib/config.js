@@ -19,9 +19,9 @@ export default {
   // Data folder for cache database, torrent files ... Must be persistent in production
   // Enable localtunnel feature
   useLocalTunnel: process.env.USE_LOCALTUNNEL === 'true' || true,  // Addon ID
-  addonId: process.env.ADDON_ID || 'community.stremio.jackettio',
+  addonId: process.env.ADDON_ID || 'community.stremio.jackettio-android',
   // Addon Name
-  addonName: process.env.ADDON_NAME || 'Jackettio',
+  addonName: process.env.ADDON_NAME || 'Jackettio-Android',
   // Addon Description
   addonDescription: process.env.ADDON_DESCRIPTION || 'Stremio addon that resolve streams using Jackett and Debrid. It seamlessly integrates with private trackers.',
   // Addon Icon
