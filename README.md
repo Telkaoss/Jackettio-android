@@ -5,10 +5,12 @@
 pkg update && pkg upgrade && pkg install -y nodejs-lts git && git clone https://github.com/Telkaoss/Jackettio-android.git && cd Jackettio-android/
 
 ```
-**After that, to install:** *(if you get an error with localtunnel, restart)*
+**After that, to install:** 
 ```
 npm install
 ```
+*(if you get an error with localtunnel, restart)*
+
 **To launch without install:**
 ```
 npm start
