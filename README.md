@@ -1,6 +1,6 @@
 # Fork of the Stremio add-on 'jackettio' for Android.
 
-**ATTENTION:** jackett is not working at the moment, I'm working on it
+**Warning:** jackett is not working at the moment, I'm working on it
 *The Mono version of Termux has problems with TLS. Therefore, "jackett" will not be able to search on trackers.
 That being said, you can try with Proot. I haven't had time to try it yet. I wanted jackettio to work natively on Termux without emulating a Linux distribution*
 
