@@ -2,6 +2,8 @@
 
 **Warning:** jackett is not working at the moment, I'm working on it
 *The Mono version of Termux has problems with TLS. Therefore, "jackett" will not be able to search on trackers.
+https://github.com/IanusInferus/termux-mono?tab=readme-ov-file#ssl-certificate-store
+
 That being said, you can try with Proot. I haven't had time to try it yet. I wanted jackettio to work natively on Termux without emulating a Linux distribution*
 
 Jackett is on http://localhost:9117
